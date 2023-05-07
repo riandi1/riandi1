@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Multiple project in laravel**
 
-- 🌱 I’m currently learning **VUEX and REACT**
+- 🌱 I’m currently learning **REACT AND NEXT JS**
 
-- 💬 Ask me about **VUE JS, REACT JS, LIVEWIRE, ALPINE JS,TAILWIND - BOOSTRAP, LARAVEL, PHP**
+- 💬 Ask me about **REACT JS, LIVEWIRE, ALPINE JS,TAILWIND - BOOSTRAP, LARAVEL, PHP**
 
 - 📫 How to reach me **rendondiaza944@gmail.com**
 
